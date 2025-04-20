@@ -1,7 +1,7 @@
 REM Title: Disable Keyboard and Mouse 120s
 REM Author: @beigeworm | https://github.com/beigeworm
 REM Description: Uses Powershell to disable all i/o devices for 120 seconds.
-REM Target: Windows 10
+REM Target: Windows 11
 
 REM *REQUIREMENTS*
 REM admin required for disable function.
